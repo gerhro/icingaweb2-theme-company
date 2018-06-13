@@ -1,0 +1,4 @@
+Name: theme-company
+Version: 1.0.1
+Depends: monitoring (>= 2.4.0)
+Description: Company Theme for Icinga Web2monitoring
